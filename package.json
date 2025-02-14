@@ -9,6 +9,7 @@
     "client:dev": "cd client && npm run dev",
     "server:dev": "cd server && npm run start",
     "start:dev": "npm run build && concurrently \"npm run server:dev\" \"wait-on tcp:3002 && npm run client:dev\"",
+    "install-and-build": "npm install && npm run build"
   },
   "keywords": [],
   "author": "",
