@@ -22,11 +22,11 @@ A comprehensive backend API for a social network application built with MongoDB,
 * [Questions](#questions)
 
 ## Installation
-git clone https://github.com/your-username/nosql-social-network-api.git
-Navigate to the project directory
-npm install
-npm run build
-npm start
+-git clone https://github.com/your-username/nosql-social-network-api.git
+-Navigate to the project directory
+-npm install
+-npm run build
+-npm start
 
 ## Usage
 Once the server is running, you can use API testing tools like Insomnia or Postman to interact with the API endpoints.
